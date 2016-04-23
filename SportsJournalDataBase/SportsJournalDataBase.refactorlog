@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="ec5bebb3-c932-4c78-ae1f-f246b6ced9cf" ChangeDateTime="04/22/2016 20:34:45">
+    <Property Name="ElementName" Value="[dbo].[FeedBacks].[IX_FeedBacks_Column]" />
+    <Property Name="ElementType" Value="SqlIndex" />
+    <Property Name="ParentElementName" Value="[dbo].[FeedBacks]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[article_id]" />
+  </Operation>
+</Operations>

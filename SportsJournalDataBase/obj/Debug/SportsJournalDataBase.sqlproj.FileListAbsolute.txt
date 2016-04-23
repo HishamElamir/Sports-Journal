@@ -1,0 +1,9 @@
+E:\projects\openGl\SportsJournal\SportsJournalDataBase\bin\Debug\SportsJournalDataBase.dacpac
+E:\projects\openGl\SportsJournal\SportsJournalDataBase\bin\Debug\SportsJournalDataBase.dll
+E:\projects\openGl\SportsJournal\SportsJournalDataBase\bin\Debug\SportsJournalDataBase.pdb
+E:\projects\openGl\SportsJournal\SportsJournalDataBase\obj\Debug\Model.xml
+E:\projects\openGl\SportsJournal\SportsJournalDataBase\obj\Debug\refactor.xml
+E:\projects\openGl\SportsJournal\SportsJournalDataBase\obj\Debug\postdeploy.sql
+E:\projects\openGl\SportsJournal\SportsJournalDataBase\obj\Debug\predeploy.sql
+E:\projects\openGl\SportsJournal\SportsJournalDataBase\obj\Debug\SportsJournalDataBase.dll
+E:\projects\openGl\SportsJournal\SportsJournalDataBase\obj\Debug\SportsJournalDataBase.pdb
